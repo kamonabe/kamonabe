@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Kamonabe
 
 Problem solver. I build what I need, then share what might help others.  
-Mainly working on security automation tools like **Komon**.
+Mainly working on security automation tools like **Komon** using **spec-driven development**.
 
 #### 🔧 Tech Interests
 - Python
