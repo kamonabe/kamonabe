@@ -1,8 +1,6 @@
-![Python](https://img.shields.io/badge/Python-3.11+-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
-
 ### 👋 Hi, I'm Kamonabe
 
+Solo developer.  
 Problem solver. I build what I need, then share what might help others.  
 Mainly working on security automation tools like **Komon** using **spec-driven development**.
 
