@@ -13,6 +13,7 @@ Mainly working on security automation tools like **Komon** using **spec-driven d
 #### 🛠 Projects
 - **[Komon](https://github.com/kamonabe/Komon)** — a lightweight advisor for server health and log anomaly detection  
   ![Release](https://img.shields.io/github/v/release/kamonabe/Komon)
+- **[Okina](https://github.com/kamonabe/Okina)** — quietly watches upstream changes and lets you know when something feels different
 
 #### 🍵 Motto
 > Enjoy what you build. Make it useful. Keep it light.
